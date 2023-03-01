@@ -1,0 +1,26 @@
+
+.ipynb_checkpoints/3D annotation and segmentation-checkpoint.ipynb
+.ipynb_checkpoints/Annotation template-checkpoint.ipynb
+3D annotation and segmentation.ipynb
+data/1_preprocessed/tp7_channel1_rescaled(256x256x103).tif
+data/2_annotations/manual_annotation_and_slice_interpolation.tif
+data/2_annotations/manual_annotation_ML.tif
+imgs/bounding_box_annotation_n_slice_interpolation.tif
+imgs/bounding_box_bug.png
+imgs/manual annotation_n_slice_interpolation.tif
+imgs/manual annotation_n_slice_interpolation_2.tif
+imgs/minimal_contour_high_gradient_annotation_n_slice_interpolation.tif
+imgs/scheme.jpg
+imgs/stardist_tp7_channel1.tif
+imgs/tp7_channel1(327x327x132).tif
+imgs/tp7_channel1(654x654x264).tif
+imgs/tp7_channel1.tif
+imgs/tp7_channel1_rescaled(256x256x103).tif
+imgs/tp7_channel1_rescaled.tif
+imgs/voronoi-otsu-labeling-result.tif
+screenshots/20230228_2D_view.png
+screenshots/20230228_3D_view.png
+screenshots/20230228_napari_annnotator.png
+screenshots/20230301_difference_between_screens.png
+screenshots/tweet.png
+.gitattributes
