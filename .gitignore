@@ -23,3 +23,7 @@ screenshots/20230228_napari_annnotator.png
 screenshots/20230301_difference_between_screens.png
 screenshots/tweet.png
 .gitattributes
+imgs/stardist_ungrouped_labels.tif
+imgs/.ipynb_checkpoints/stardist_ungrouped_labels-checkpoint.tif
+data/2_annotations/name/.ipynb_checkpoints/grouped_labels-checkpoint.tif
+data/2_annotations/name/grouped_labels.tif
