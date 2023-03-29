@@ -2,7 +2,6 @@
 .ipynb_checkpoints/3D annotation and segmentation-checkpoint.ipynb
 .ipynb_checkpoints/Annotation template-checkpoint.ipynb
 3D annotation and segmentation.ipynb
-data/1_preprocessed/tp7_channel1_rescaled(256x256x103).tif
 data/2_annotations/manual_annotation_and_slice_interpolation.tif
 data/2_annotations/manual_annotation_ML.tif
 imgs/bounding_box_annotation_n_slice_interpolation.tif
