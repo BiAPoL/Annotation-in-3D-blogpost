@@ -4,7 +4,7 @@ This work is licensed by Mara Lampert, PoL Dresden under a Creative Commons Attr
 
 This repository hosts a proposal for an annotation template for community annotations.
 
-Here you can find the blog post: https://focalplane.biologists.com/2023/03/01/annotating-3d-images-in-napari/
+Here you can find the blog post: https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/
 
 It is maintained using Jupyter lab.
 
